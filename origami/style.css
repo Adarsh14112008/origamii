@@ -1,0 +1,22 @@
+.h1{
+    display: flex;
+    background-color:black ; 
+    color:blanchedalmond;
+    padding-left: 500px;
+}
+
+.a1 {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+    background-color:blanchedalmond;
+    border:solid ;
+    
+}
+.a2 {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+    background-color:blanchedalmond;
+    border:solid ;
+}
